@@ -146,7 +146,7 @@ namespace back_end.Migrations
                         {
                             Id = 1,
                             ConsorcioId = 1,
-                            NumeroCota = 8107,
+                            NumeroCota = 5700,
                             Status = "Disponível",
                             Tipo = "Imovel",
                             Valor = 50000m
@@ -155,7 +155,7 @@ namespace back_end.Migrations
                         {
                             Id = 11,
                             ConsorcioId = 2,
-                            NumeroCota = 8107,
+                            NumeroCota = 5700,
                             Status = "Disponível",
                             Tipo = "Carro",
                             Valor = 20000m
@@ -164,7 +164,7 @@ namespace back_end.Migrations
                         {
                             Id = 21,
                             ConsorcioId = 3,
-                            NumeroCota = 8107,
+                            NumeroCota = 5700,
                             Status = "Disponível",
                             Tipo = "Serviço",
                             Valor = 7000m
@@ -173,7 +173,7 @@ namespace back_end.Migrations
                         {
                             Id = 2,
                             ConsorcioId = 1,
-                            NumeroCota = 2412,
+                            NumeroCota = 5642,
                             Status = "Disponível",
                             Tipo = "Imovel",
                             Valor = 50000m
@@ -182,7 +182,7 @@ namespace back_end.Migrations
                         {
                             Id = 12,
                             ConsorcioId = 2,
-                            NumeroCota = 2412,
+                            NumeroCota = 5642,
                             Status = "Disponível",
                             Tipo = "Carro",
                             Valor = 20000m
@@ -191,7 +191,7 @@ namespace back_end.Migrations
                         {
                             Id = 22,
                             ConsorcioId = 3,
-                            NumeroCota = 2412,
+                            NumeroCota = 5642,
                             Status = "Disponível",
                             Tipo = "Serviço",
                             Valor = 7000m
@@ -200,7 +200,7 @@ namespace back_end.Migrations
                         {
                             Id = 3,
                             ConsorcioId = 1,
-                            NumeroCota = 9360,
+                            NumeroCota = 7286,
                             Status = "Disponível",
                             Tipo = "Imovel",
                             Valor = 50000m
@@ -209,7 +209,7 @@ namespace back_end.Migrations
                         {
                             Id = 13,
                             ConsorcioId = 2,
-                            NumeroCota = 9360,
+                            NumeroCota = 7286,
                             Status = "Disponível",
                             Tipo = "Carro",
                             Valor = 20000m
@@ -218,7 +218,7 @@ namespace back_end.Migrations
                         {
                             Id = 23,
                             ConsorcioId = 3,
-                            NumeroCota = 9360,
+                            NumeroCota = 7286,
                             Status = "Disponível",
                             Tipo = "Serviço",
                             Valor = 7000m
@@ -227,7 +227,7 @@ namespace back_end.Migrations
                         {
                             Id = 4,
                             ConsorcioId = 1,
-                            NumeroCota = 9281,
+                            NumeroCota = 1038,
                             Status = "Disponível",
                             Tipo = "Imovel",
                             Valor = 50000m
@@ -236,7 +236,7 @@ namespace back_end.Migrations
                         {
                             Id = 14,
                             ConsorcioId = 2,
-                            NumeroCota = 9281,
+                            NumeroCota = 1038,
                             Status = "Disponível",
                             Tipo = "Carro",
                             Valor = 20000m
@@ -245,7 +245,7 @@ namespace back_end.Migrations
                         {
                             Id = 24,
                             ConsorcioId = 3,
-                            NumeroCota = 9281,
+                            NumeroCota = 1038,
                             Status = "Disponível",
                             Tipo = "Serviço",
                             Valor = 7000m
@@ -254,7 +254,7 @@ namespace back_end.Migrations
                         {
                             Id = 5,
                             ConsorcioId = 1,
-                            NumeroCota = 5258,
+                            NumeroCota = 2319,
                             Status = "Disponível",
                             Tipo = "Imovel",
                             Valor = 50000m
@@ -263,7 +263,7 @@ namespace back_end.Migrations
                         {
                             Id = 15,
                             ConsorcioId = 2,
-                            NumeroCota = 5258,
+                            NumeroCota = 2319,
                             Status = "Disponível",
                             Tipo = "Carro",
                             Valor = 20000m
@@ -272,7 +272,7 @@ namespace back_end.Migrations
                         {
                             Id = 25,
                             ConsorcioId = 3,
-                            NumeroCota = 5258,
+                            NumeroCota = 2319,
                             Status = "Disponível",
                             Tipo = "Serviço",
                             Valor = 7000m
@@ -281,7 +281,7 @@ namespace back_end.Migrations
                         {
                             Id = 6,
                             ConsorcioId = 1,
-                            NumeroCota = 1047,
+                            NumeroCota = 6343,
                             Status = "Disponível",
                             Tipo = "Imovel",
                             Valor = 50000m
@@ -290,7 +290,7 @@ namespace back_end.Migrations
                         {
                             Id = 16,
                             ConsorcioId = 2,
-                            NumeroCota = 1047,
+                            NumeroCota = 6343,
                             Status = "Disponível",
                             Tipo = "Carro",
                             Valor = 20000m
@@ -299,7 +299,7 @@ namespace back_end.Migrations
                         {
                             Id = 26,
                             ConsorcioId = 3,
-                            NumeroCota = 1047,
+                            NumeroCota = 6343,
                             Status = "Disponível",
                             Tipo = "Serviço",
                             Valor = 7000m
@@ -308,7 +308,7 @@ namespace back_end.Migrations
                         {
                             Id = 7,
                             ConsorcioId = 1,
-                            NumeroCota = 5342,
+                            NumeroCota = 4510,
                             Status = "Disponível",
                             Tipo = "Imovel",
                             Valor = 50000m
@@ -317,7 +317,7 @@ namespace back_end.Migrations
                         {
                             Id = 17,
                             ConsorcioId = 2,
-                            NumeroCota = 5342,
+                            NumeroCota = 4510,
                             Status = "Disponível",
                             Tipo = "Carro",
                             Valor = 20000m
@@ -326,7 +326,7 @@ namespace back_end.Migrations
                         {
                             Id = 27,
                             ConsorcioId = 3,
-                            NumeroCota = 5342,
+                            NumeroCota = 4510,
                             Status = "Disponível",
                             Tipo = "Serviço",
                             Valor = 7000m
@@ -335,7 +335,7 @@ namespace back_end.Migrations
                         {
                             Id = 8,
                             ConsorcioId = 1,
-                            NumeroCota = 7128,
+                            NumeroCota = 8512,
                             Status = "Disponível",
                             Tipo = "Imovel",
                             Valor = 50000m
@@ -344,7 +344,7 @@ namespace back_end.Migrations
                         {
                             Id = 18,
                             ConsorcioId = 2,
-                            NumeroCota = 7128,
+                            NumeroCota = 8512,
                             Status = "Disponível",
                             Tipo = "Carro",
                             Valor = 20000m
@@ -353,7 +353,7 @@ namespace back_end.Migrations
                         {
                             Id = 28,
                             ConsorcioId = 3,
-                            NumeroCota = 7128,
+                            NumeroCota = 8512,
                             Status = "Disponível",
                             Tipo = "Serviço",
                             Valor = 7000m
@@ -362,7 +362,7 @@ namespace back_end.Migrations
                         {
                             Id = 9,
                             ConsorcioId = 1,
-                            NumeroCota = 4714,
+                            NumeroCota = 9542,
                             Status = "Disponível",
                             Tipo = "Imovel",
                             Valor = 50000m
@@ -371,7 +371,7 @@ namespace back_end.Migrations
                         {
                             Id = 19,
                             ConsorcioId = 2,
-                            NumeroCota = 4714,
+                            NumeroCota = 9542,
                             Status = "Disponível",
                             Tipo = "Carro",
                             Valor = 20000m
@@ -380,7 +380,7 @@ namespace back_end.Migrations
                         {
                             Id = 29,
                             ConsorcioId = 3,
-                            NumeroCota = 4714,
+                            NumeroCota = 9542,
                             Status = "Disponível",
                             Tipo = "Serviço",
                             Valor = 7000m
@@ -389,7 +389,7 @@ namespace back_end.Migrations
                         {
                             Id = 10,
                             ConsorcioId = 1,
-                            NumeroCota = 4249,
+                            NumeroCota = 7792,
                             Status = "Disponível",
                             Tipo = "Imovel",
                             Valor = 50000m
@@ -398,7 +398,7 @@ namespace back_end.Migrations
                         {
                             Id = 20,
                             ConsorcioId = 2,
-                            NumeroCota = 4249,
+                            NumeroCota = 7792,
                             Status = "Disponível",
                             Tipo = "Carro",
                             Valor = 20000m
@@ -407,7 +407,7 @@ namespace back_end.Migrations
                         {
                             Id = 30,
                             ConsorcioId = 3,
-                            NumeroCota = 4249,
+                            NumeroCota = 7792,
                             Status = "Disponível",
                             Tipo = "Serviço",
                             Valor = 7000m

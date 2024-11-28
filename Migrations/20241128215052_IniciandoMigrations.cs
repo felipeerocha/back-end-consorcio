@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace back_end.Migrations
 {
     /// <inheritdoc />
-    public partial class CriandoProjeto : Migration
+    public partial class IniciandoMigrations : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -93,36 +93,36 @@ namespace back_end.Migrations
                 columns: new[] { "Id", "ConsorcioId", "NumeroCota", "Status", "Tipo", "Valor" },
                 values: new object[,]
                 {
-                    { 1, 1, 8107, "Disponível", "Imovel", 50000m },
-                    { 2, 1, 2412, "Disponível", "Imovel", 50000m },
-                    { 3, 1, 9360, "Disponível", "Imovel", 50000m },
-                    { 4, 1, 9281, "Disponível", "Imovel", 50000m },
-                    { 5, 1, 5258, "Disponível", "Imovel", 50000m },
-                    { 6, 1, 1047, "Disponível", "Imovel", 50000m },
-                    { 7, 1, 5342, "Disponível", "Imovel", 50000m },
-                    { 8, 1, 7128, "Disponível", "Imovel", 50000m },
-                    { 9, 1, 4714, "Disponível", "Imovel", 50000m },
-                    { 10, 1, 4249, "Disponível", "Imovel", 50000m },
-                    { 11, 2, 8107, "Disponível", "Carro", 20000m },
-                    { 12, 2, 2412, "Disponível", "Carro", 20000m },
-                    { 13, 2, 9360, "Disponível", "Carro", 20000m },
-                    { 14, 2, 9281, "Disponível", "Carro", 20000m },
-                    { 15, 2, 5258, "Disponível", "Carro", 20000m },
-                    { 16, 2, 1047, "Disponível", "Carro", 20000m },
-                    { 17, 2, 5342, "Disponível", "Carro", 20000m },
-                    { 18, 2, 7128, "Disponível", "Carro", 20000m },
-                    { 19, 2, 4714, "Disponível", "Carro", 20000m },
-                    { 20, 2, 4249, "Disponível", "Carro", 20000m },
-                    { 21, 3, 8107, "Disponível", "Serviço", 7000m },
-                    { 22, 3, 2412, "Disponível", "Serviço", 7000m },
-                    { 23, 3, 9360, "Disponível", "Serviço", 7000m },
-                    { 24, 3, 9281, "Disponível", "Serviço", 7000m },
-                    { 25, 3, 5258, "Disponível", "Serviço", 7000m },
-                    { 26, 3, 1047, "Disponível", "Serviço", 7000m },
-                    { 27, 3, 5342, "Disponível", "Serviço", 7000m },
-                    { 28, 3, 7128, "Disponível", "Serviço", 7000m },
-                    { 29, 3, 4714, "Disponível", "Serviço", 7000m },
-                    { 30, 3, 4249, "Disponível", "Serviço", 7000m }
+                    { 1, 1, 5700, "Disponível", "Imovel", 50000m },
+                    { 2, 1, 5642, "Disponível", "Imovel", 50000m },
+                    { 3, 1, 7286, "Disponível", "Imovel", 50000m },
+                    { 4, 1, 1038, "Disponível", "Imovel", 50000m },
+                    { 5, 1, 2319, "Disponível", "Imovel", 50000m },
+                    { 6, 1, 6343, "Disponível", "Imovel", 50000m },
+                    { 7, 1, 4510, "Disponível", "Imovel", 50000m },
+                    { 8, 1, 8512, "Disponível", "Imovel", 50000m },
+                    { 9, 1, 9542, "Disponível", "Imovel", 50000m },
+                    { 10, 1, 7792, "Disponível", "Imovel", 50000m },
+                    { 11, 2, 5700, "Disponível", "Carro", 20000m },
+                    { 12, 2, 5642, "Disponível", "Carro", 20000m },
+                    { 13, 2, 7286, "Disponível", "Carro", 20000m },
+                    { 14, 2, 1038, "Disponível", "Carro", 20000m },
+                    { 15, 2, 2319, "Disponível", "Carro", 20000m },
+                    { 16, 2, 6343, "Disponível", "Carro", 20000m },
+                    { 17, 2, 4510, "Disponível", "Carro", 20000m },
+                    { 18, 2, 8512, "Disponível", "Carro", 20000m },
+                    { 19, 2, 9542, "Disponível", "Carro", 20000m },
+                    { 20, 2, 7792, "Disponível", "Carro", 20000m },
+                    { 21, 3, 5700, "Disponível", "Serviço", 7000m },
+                    { 22, 3, 5642, "Disponível", "Serviço", 7000m },
+                    { 23, 3, 7286, "Disponível", "Serviço", 7000m },
+                    { 24, 3, 1038, "Disponível", "Serviço", 7000m },
+                    { 25, 3, 2319, "Disponível", "Serviço", 7000m },
+                    { 26, 3, 6343, "Disponível", "Serviço", 7000m },
+                    { 27, 3, 4510, "Disponível", "Serviço", 7000m },
+                    { 28, 3, 8512, "Disponível", "Serviço", 7000m },
+                    { 29, 3, 9542, "Disponível", "Serviço", 7000m },
+                    { 30, 3, 7792, "Disponível", "Serviço", 7000m }
                 });
 
             migrationBuilder.CreateIndex(
