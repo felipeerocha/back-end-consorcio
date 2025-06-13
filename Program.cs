@@ -18,14 +18,14 @@ builder.Services.AddCors(options =>
                   .AllowAnyMethod();
         });
 
-    // Opção 2: Permitir URLs dinâmicas específicas com base no padrão (localhost:9000-9005)
+    // Opção 2: Permitir URLs dinâmicas específicas com base no padrão (localhost:3000-9005)
     options.AddPolicy("AllowDynamicLocalhost",
         policy =>
         {
             policy.SetIsOriginAllowed(origin =>
                 origin.StartsWith("http://localhost:") &&
                 int.TryParse(origin.Split(':').Last(), out int port) &&
-                port >= 9000 && port <= 9010
+                port >= 3000 && port <= 9010
             )
             .AllowAnyHeader()
             .AllowAnyMethod();
